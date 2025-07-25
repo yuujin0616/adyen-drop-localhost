@@ -1,6 +1,6 @@
 ***Please read this before trying out the integration in this repository***
 
-Preface: I understand that this assignment is a request for me to be a fully working Drop-in integration on the Sesssions flow. 
+Preface: I understand that this assignment is a request for me to have a fully working Drop-in integration on the Sesssions flow. 
 I must admit beforehand that my knowledge in the Ecom realm is rather limited given my role as dedicated IPP Tech support since joining Adyen and my coding languages background only includes HTML and CSS.
 Hence, please forgive the very simple integration in this submission, and the various workarounds that I've had to put in to get the integration to function.
 
